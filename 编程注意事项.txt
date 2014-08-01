@@ -1,0 +1,1 @@
+当需要多new的对象里面出现timer时候 要用remove_timer_unit删除timer事件
